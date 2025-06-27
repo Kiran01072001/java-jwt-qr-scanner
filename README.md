@@ -1,0 +1,1 @@
+# java-jwt-qr-scanner
